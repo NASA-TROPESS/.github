@@ -4,5 +4,5 @@ Tropospheric sounding from satellite observations provides critical information 
 
 For addtional information about TROPESS, visit the following links:
 
-- [TROPESS Homepage](htps://tes.jpl.nasa.gov)
+- [TROPESS Homepage](https://tes.jpl.nasa.go/tropess)
 - [TROPESS Open-Source Utility Tools (NPO-51949-1)](https://software.nasa.gov/software/NPO-51949-1)
